@@ -1,15 +1,16 @@
 {
-  "homepage": "http://Keyur793.github.io/Keyur-Patel",
   "name": "personal-portfolio",
+  "homepage": "https://Keyur793/github.io/Keyur-Patel/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d build",
-    "build": "react-scripts build"
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
