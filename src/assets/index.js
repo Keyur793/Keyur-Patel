@@ -35,6 +35,7 @@ import healhoffman from "./healhoffman.png"
 import openstreetmap from "./openstreetmap.png"
 import divvydata from "./divvydata.jpeg"
 import echochess from "./echochess.png"
+import findmydorm from "./findmydorm.png"
 
 export {
   logo,
@@ -60,19 +61,15 @@ export {
   python,
   sql,
 
-
   gfs,
   esync,
   outlier,
 
-
-  carrent,
-  jobit,
-  tripguide,
   stockpro,
   healhoffman,
   openstreetmap,
   divvydata,
   echochess,
+  findmydorm,
   
 };

@@ -22,15 +22,12 @@ import {
     esync,
     outlier,
 
-
-    carrent,
-    jobit,
-    tripguide,
     stockpro,
     healhoffman,
     openstreetmap,
     divvydata,
     echochess,
+    findmydorm,
     
   } from "../assets";
   
@@ -194,7 +191,7 @@ import {
         },
       ],
       image: stockpro,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Keyur793/StockPro",
     },
     {
       name: "FindMyDorm",
@@ -214,7 +211,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: findmydorm,
       source_code_link: "https://github.com/",
     },
     {
@@ -232,7 +229,7 @@ import {
         },
       ],
       image: healhoffman,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://healhoffman.netlify.app/index.html",
     },
     {
       name: "OpenStreetMap",
@@ -249,7 +246,7 @@ import {
         },
       ],
       image: openstreetmap,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Keyur793/OpenStreetMap",
     },
     {
       name: "DivvyData",
@@ -262,7 +259,7 @@ import {
         },
       ],
       image: divvydata,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Keyur793/Divvy-Data",
     },
     {
       name: "EchoChess",
@@ -279,7 +276,7 @@ import {
         },
       ],
       image: echochess,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Keyur793/EchoChess",
     },
   ];
   
